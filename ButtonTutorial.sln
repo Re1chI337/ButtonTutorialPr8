@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ButtonTutorial.Android", "ButtonTutorial\ButtonTutorial.Android\ButtonTutorial.Android.csproj", "{C5841581-C1BD-48DC-B743-2B7421D16F27}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ButtonTutorial", "ButtonTutorial\ButtonTutorial\ButtonTutorial.csproj", "{B9171D78-4520-4DDD-A4C6-81AA5CD77171}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C5841581-C1BD-48DC-B743-2B7421D16F27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5841581-C1BD-48DC-B743-2B7421D16F27}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5841581-C1BD-48DC-B743-2B7421D16F27}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{C5841581-C1BD-48DC-B743-2B7421D16F27}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5841581-C1BD-48DC-B743-2B7421D16F27}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C5841581-C1BD-48DC-B743-2B7421D16F27}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{B9171D78-4520-4DDD-A4C6-81AA5CD77171}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9171D78-4520-4DDD-A4C6-81AA5CD77171}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9171D78-4520-4DDD-A4C6-81AA5CD77171}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{B9171D78-4520-4DDD-A4C6-81AA5CD77171}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9171D78-4520-4DDD-A4C6-81AA5CD77171}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9171D78-4520-4DDD-A4C6-81AA5CD77171}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {397CCE90-DB36-478F-8EA3-FABFF9B8ED51}
+	EndGlobalSection
+EndGlobal
